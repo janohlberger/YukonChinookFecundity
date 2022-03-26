@@ -1,6 +1,6 @@
 # YukonChinookFecundity
 
-This repository contains data and code for estimating relationships between fish size and reproductive output used in Ohlberger et al. 2021.
+This repository contains data and code for estimating relationships between fish size and reproductive as presented in Ohlberger et al. 2021.
 
 Ohlberger J, Schindler DE, Brown RJ, Harding JMS, Adkison MD, Munro AR, Horstmann L, SPaeder J. 2020. The reproductive value of large females: consequences of shifts in demographic structure for population reproductive potential in Chinook salmon. Canadian Journal of Fisheries and Aquatic Sciences 77:1292-1301
 
