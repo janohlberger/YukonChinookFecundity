@@ -14,4 +14,4 @@ The repository files are:
 
 Simply open the file _YukonChinookFecundity.R_ and run the code. The original analyses were run in R version 3.6.1.
 
-Code and data are published here under lincense https://choosealicense.com/licenses/gpl-3.0/.
+Code and data are published here under the GNU GPLv3.0 lincense: https://choosealicense.com/licenses/gpl-3.0/.
