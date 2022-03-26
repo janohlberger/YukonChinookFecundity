@@ -13,3 +13,5 @@ The repository files are:
 3. _YukonChinookFecundity.R_ contain the code to run the regression analyses
 
 Simply open the file _YukonChinookFecundity.R_ and run the code. The original analyses were run in R version 3.6.1.
+
+Code and data are published here under lincense https://choosealicense.com/licenses/gpl-3.0/.
