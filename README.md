@@ -12,4 +12,4 @@ The repository files are:
 2. _try-many-inits-function.R_ contains a function for estimating the non-linear regression
 3. _YukonChinookFecundity.R_ contain the code to run the regression analyses
 
-Simply open the file _YukonChinookFecundity.R_ and run the code. The original analyses were run in R version 3.6.1.
+To run the analyses, open the file _YukonChinookFecundity.R_ and run the code. The original analyses were run in R version 3.6.1.
